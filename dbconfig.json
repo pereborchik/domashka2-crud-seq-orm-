@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "perebor.bs",
+    "password": "Qh6POqHmNyL3",
+    "database": "uchebnayadb",
+    "host": "ep-tight-band-a5yujaeq.us-east-2.aws.neon.tech",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
